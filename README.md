@@ -1,7 +1,7 @@
 # PyCaret Assignments — Data Mining Project
 
 This repository contains all deliverables for the Data Mining class assignment based on **PyCaret** (Low-Code Machine Learning).  
-Each task is implemented, executed, and explained in an organized set of notebooks with results, plots, and 1-minute video demonstrations.
+Each task is implemented, executed, and explained in an organized set of notebooks with results, plots, and video demonstrations.
 
 ---
 

@@ -1,1 +1,8 @@
-
+pycaret==3.3.2
+gradio>=4.44,<5
+huggingface_hub<0.26.0
+pandas>=2.1.4,<2.3.0
+scikit-learn>=1.4.2,<1.6.0
+matplotlib>=3.7.5
+seaborn>=0.13.2
+numpy>=1.26.4,<2.0.0
